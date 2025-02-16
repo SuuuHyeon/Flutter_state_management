@@ -30,6 +30,7 @@ environment:
 dependencies:
 
   get:
+  http:
 
   flutter:
     sdk: flutter
